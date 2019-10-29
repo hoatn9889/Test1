@@ -1,6 +1,8 @@
 # Prerequisites
 *.d
 gghhgh
+gytgjhghj
+Giang
 
 # Compiled Object files
 *.slo
