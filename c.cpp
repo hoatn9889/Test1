@@ -1,9 +1,17 @@
 # Prerequisites
 *.d
+<<<<<<< .mine
+fsdfsdfsd
+fsadas
+||||||| .r2
+
+=======
 gghhgh
 gytgjhghj
 Giang
+Thoong
 
+>>>>>>> .r3
 # Compiled Object files
 *.slo
 *.lo
